@@ -1,1 +1,0 @@
-C:\SonTran\Example\ConsoleApp\EIPNET\EipNetServer\bin\Debug\EipNetServer.exe.config
